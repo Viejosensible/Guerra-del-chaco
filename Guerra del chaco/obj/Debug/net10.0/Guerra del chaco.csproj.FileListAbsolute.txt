@@ -1,0 +1,14 @@
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\bin\Debug\net10.0\Guerra del chaco.exe
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\bin\Debug\net10.0\Guerra del chaco.deps.json
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\bin\Debug\net10.0\Guerra del chaco.runtimeconfig.json
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\bin\Debug\net10.0\Guerra del chaco.dll
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\bin\Debug\net10.0\Guerra del chaco.pdb
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\Guerra del chaco.GeneratedMSBuildEditorConfig.editorconfig
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\Guerra del chaco.AssemblyInfoInputs.cache
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\Guerra del chaco.AssemblyInfo.cs
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\Guerra del chaco.csproj.CoreCompileInputs.cache
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\Guerra del chaco.dll
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\refint\Guerra del chaco.dll
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\Guerra del chaco.pdb
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\Guerra del chaco.genruntimeconfig.cache
+C:\jhair programcion\Guerra del chaco\Guerra del chaco\Guerra del chaco\obj\Debug\net10.0\ref\Guerra del chaco.dll
